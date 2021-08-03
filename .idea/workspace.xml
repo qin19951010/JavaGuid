@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abca7e0f-7370-48f3-a072-c31de7988d72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGuid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qinnn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutGeneric/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutGeneric/Holder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/IAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/JustDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/myOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/局部内部类/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/成员内部类/Other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/成员内部类/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/静态内部类/Other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutInner/静态内部类/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutJson/TestJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutReflection/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/AboutReflection/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/Day01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/DebugInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/HTTP/Entity/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/HTTP/Entity/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/HTTP/Entity/Response1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/HTTP/Handler/RequestDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/HTTP/Handler/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/HTTP/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/HTTP/Socket_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/IO相关/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/IO相关/log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/Lambda/LambdaTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/Lambda/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/POI/POI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/PinType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/PizzaStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/reflectionAbout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/staticAbout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/关键字/final_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/关键字/static_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/JUC/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/SingletonLazyOptimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/ThreadLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/Thread_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/Tread_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/WindowsTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/多线程/threadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化/Externalizable/ExPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化/ReadObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化/ReadTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化/WriteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化/WriteTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化2/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化2/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化2/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/序列化2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/测试包/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/序列化/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/序列化/ColoredCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/序列化/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/浅拷贝/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/浅拷贝/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/浅拷贝/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/深拷贝/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/深拷贝/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/深拷贝/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/装箱拆箱/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/AliMessageMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/AliSmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/CGLIB动态代理2/CglibProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/CglibProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/tets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/DataChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/DataChangeImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/DataInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/JdkProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JdkProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/MessageInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/SingletonHungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/SingletonLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/SingletonStaticInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/IphoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/XiaoMiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/CommonHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/HignBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/HouseDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式2/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式2/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/普通实现/AbstractHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/普通实现/CommonHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/AppleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/MAC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/MiPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/XiaoMiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/MiPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/phoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/Marry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/MarryCompanyProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/You.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/静态代理2/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/静态代理2/SmsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/静态代理2/SmsServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/List相关.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/Set性能测试.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/Set相关.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/TreeSet基本数据类型排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/TreeSet自定义对象排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类bj/Entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类bj/List/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类bj/List/ListSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类bj/Map/HashMapTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类bj/Map/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类bj/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/UtilsDemo/hutool/hutoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JavaGuid-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutGeneric/Automobile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutGeneric/Holder1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/IAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/JustDo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/Outer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/myOuter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/匿名内部类/myOuter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/局部内部类/Outer$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/局部内部类/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/成员内部类/Other.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/成员内部类/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/成员内部类/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/静态内部类/Other.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/静态内部类/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutInner/静态内部类/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutJson/TestJson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutReflection/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/AboutReflection/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Day01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/DebugInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/HTTP/Entity/Request.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/HTTP/Entity/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/HTTP/Entity/Response1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/HTTP/Handler/RequestDispatcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/HTTP/Handler/RequestHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/HTTP/Socket_Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/IO相关/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/IO相关/log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Iadd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Lambda/LambdaTest1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Lambda/LambdaTest1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Lambda/LambdaTest1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Lambda/LambdaTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Lambda/MethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/POI/POI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/PinType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Pizza$PizzaStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/PizzaStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Singleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Singleton$SingletonHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/reflectionAbout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/staticAbout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/关键字/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/关键字/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/关键字/final_test$A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/关键字/final_test$B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/关键字/final_test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/关键字/static_test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Deadlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/JUC/Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/JUC/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/MThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/SingletonLazyOptimization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/ThreadDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/ThreadLife.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Thread_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Tread_01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Tread_01$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Tread_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Window1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Window2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Window3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/Window4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/WindowsTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/多线程/threadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化/Externalizable/ExPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化/ReadObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化/ReadTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化/WriteObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化/WriteTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Main$CustomDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Main$CustomSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Main$People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/MyFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/序列化2/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/测试包/test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/序列化/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/序列化/ColoredCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/序列化/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/浅拷贝/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/浅拷贝/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/浅拷贝/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/深拷贝/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/深拷贝/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/深拷贝和浅拷贝/深拷贝/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/装箱拆箱/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/AliMessageMethodInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/AliSmsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/CGLIB动态代理2/CglibProxyFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/CGLIB动态代理2/CglibProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/CglibProxyFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/CglibProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/CGLIB动态代理/tets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/DataChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/DataChangeImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/DataInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/JdkProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JDK动态代理2/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JdkProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/MessageInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/SingletonHungry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/SingletonLazy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/SingletonStaticInner$SingletonHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/单例模式/SingletonStaticInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/AbstractFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/IphoneFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/XiaoMiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/工厂方法模式/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/CommonHouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/HignBuilding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/House.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/HouseBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/HouseDirector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式1/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式2/Phone$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式2/Phone$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式2/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/建造者模式2/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/普通实现/AbstractHouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/建造者模式/普通实现/CommonHouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/AbstractFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/AppleFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/MAC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/MiPC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/XiaoMiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/抽象工厂模式/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/IPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/MiPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/简单工厂模式/phoneFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/Marry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/MarryCompanyProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/You.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/静态代理2/SmsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/静态代理2/SmsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/设计模式/静态代理/静态代理2/SmsServiceProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/List相关.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/Set性能测试.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/Set相关.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/TreeSet基本数据类型排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/TreeSet自定义对象排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/guigu/CollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/guigu/Foreach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/guigu/Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/guigu/ListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/guigu/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类/guigu/SetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类bj/Entity/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类bj/List/ArrayListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类bj/List/ListSort$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类bj/List/ListSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类bj/Map/HashMapTraverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类bj/Map/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/BaseDemo/集合类bj/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/UtilsDemo/hutool/hutoolTest$PmsBrand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/UtilsDemo/hutool/hutoolTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jiangnanyidianyu/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/DevTools/apache-maven-3.5.4/MvnRepository" />
+        <option name="mavenHome" value="$USER_HOME$/DevTools/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/DevTools/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uM0TLhXBltDahjGN4FOOU2xu0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15118577" />
+    <property name="project.structure.side.proportion" value="0.3333333" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiangnanyidianyu.多线程" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MethodTest.test1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGuid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangnanyidianyu.BaseDemo.Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiangnanyidianyu.BaseDemo.Lambda" />
+      <option name="MAIN_CLASS_NAME" value="com.jiangnanyidianyu.BaseDemo.Lambda.MethodTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hutoolTest.testHttpUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGuid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangnanyidianyu.UtilsDemo.hutool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool" />
+      <option name="MAIN_CLASS_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool.hutoolTest" />
+      <option name="METHOD_NAME" value="testHttpUtil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hutoolTest.testMapUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGuid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangnanyidianyu.UtilsDemo.hutool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool" />
+      <option name="MAIN_CLASS_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool.hutoolTest" />
+      <option name="METHOD_NAME" value="testMapUtil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hutoolTest.testNumberUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGuid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangnanyidianyu.UtilsDemo.hutool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool" />
+      <option name="MAIN_CLASS_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool.hutoolTest" />
+      <option name="METHOD_NAME" value="testNumberUtil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hutoolTest.testSecureUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGuid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangnanyidianyu.UtilsDemo.hutool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool" />
+      <option name="MAIN_CLASS_NAME" value="com.jiangnanyidianyu.UtilsDemo.hutool.hutoolTest" />
+      <option name="METHOD_NAME" value="testSecureUtil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MethodTest.test1" />
+        <item itemvalue="JUnit.hutoolTest.testHttpUtil" />
+        <item itemvalue="JUnit.hutoolTest.testSecureUtil" />
+        <item itemvalue="JUnit.hutoolTest.testMapUtil" />
+        <item itemvalue="JUnit.hutoolTest.testNumberUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abca7e0f-7370-48f3-a072-c31de7988d72" name="Default Changelist" comment="" />
+      <created>1624460156869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624460156869</updated>
+      <workItem from="1624460158465" duration="9330000" />
+      <workItem from="1624845438124" duration="3893000" />
+      <workItem from="1624977182250" duration="17084000" />
+      <workItem from="1625151734716" duration="554000" />
+      <workItem from="1625152298931" duration="59831000" />
+      <workItem from="1626156214751" duration="1681000" />
+      <workItem from="1626765428197" duration="609000" />
+      <workItem from="1626934009750" duration="6132000" />
+      <workItem from="1627980815695" duration="894000" />
+      <workItem from="1627981861054" duration="1013000" />
+      <workItem from="1627983253098" duration="6000" />
+      <workItem from="1627983274160" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/装箱拆箱/test.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/ListTest.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/MessageInvocationHandler.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/设计模式/JDK动态代理/JdkProxyFactory.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiangnanyidianyu/BaseDemo/集合类/guigu/ListTest.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
